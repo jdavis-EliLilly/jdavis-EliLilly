@@ -3,13 +3,13 @@ Hi 👋, I'm James Davis
 
 
 
-- 🔭 I’m currently working on [Data Automation Projects, Glue, Pyspark](https://github.com/EliLillyCo)
+- 🔭 I’m currently working on [Data Automation Projects, Glue, Pyspark, and Python Data Science](https://github.com/EliLillyCo)
 
 - 🌱 I’m currently learning **AWS Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jdavis-EliLilly](https://github.com/jdavis-EliLilly)
 
-- 💬 Ask me about **Python Automation, R Shiny web development, Database solutions**
+- 💬 Ask me about **Python Automation, Sklearn Algorithms (xgBoost, gradient boosting, Lregression) R Shiny web development, Database solutions**
 
 - 📫 How to reach me **davis_james_nathan@lilly.com**
 
