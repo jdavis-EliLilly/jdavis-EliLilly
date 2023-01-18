@@ -27,3 +27,6 @@ Hi 👋, I'm James Davis
 ![James github stats](https://github-readme-stats.vercel.app/api?username=jdavis-EliLilly&show_icons=true&theme=dark&count_private=true&include_all_commits=true) | ![James GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jdavis-EliLilly&count_private=true&theme=dark) |
 | --- | --- |
  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdavis-EliLilly&count_private=true&theme=dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jdavis-EliLilly&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dark) |
+ 
+ ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/jdavis-EliLilly?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
