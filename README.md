@@ -2,7 +2,6 @@
 Hi 👋, I'm James Davis
 
 
-
 - 🔭 I’m currently working on [Data Automation Projects, Glue, Pyspark, and Python Data Science](https://github.com/EliLillyCo)
 
 - 🌱 I’m currently learning **AWS Development**
