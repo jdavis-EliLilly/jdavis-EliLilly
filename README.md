@@ -1,13 +1,3 @@
-<!--
-  README.md for James Davis
-  --------------------------------
-  Feel free to adjust images, sizes, themes, etc.
-  to fit your personal style or to remove sections
-  you don’t need. The comments (like this one) are
-  only here to help you understand what each
-  component does; you can safely remove them.
--->
-
 <!-- Fancy header or ASCII art can make your profile stand out. 
      Uncomment and adjust as you like.
      
