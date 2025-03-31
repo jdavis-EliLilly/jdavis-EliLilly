@@ -150,12 +150,6 @@
        alt="James Davis GitHub Streak" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdavis-EliLilly&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dark"
-       alt="James Davis GitHub Stats" />
-</p>
-
 <!-- Top Languages -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
