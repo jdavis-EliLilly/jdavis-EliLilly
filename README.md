@@ -1,199 +1,188 @@
-<!-- 
-  ========================================================================
-  FANCY HEADER / ASCII ART
-  Uncomment and adjust as you like.
-  The example below uses a "Typing SVG" to give a dynamic text effect.
-  ========================================================================
--->
 <!--
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Principal+Software+Developer;Python+%7C+R+%7C+Machine+Learning;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+========================================================================
+│  README.md  ◇  James “JD” Davis – Principal Software Developer
+========================================================================
 -->
 
-<!-- 
-  ========================================================================
-  TITLE / GREETING
-  ========================================================================
--->
+<!-- Dynamic typing header ------------------------------------------------>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Principal+Software+Developer;Python+%7C+R+%7C+ML+Engineer;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
+
 <h1 align="center">Hi there 👋, I'm James Davis</h1>
-<h3 align="center">Principal Software Developer | Python & R Enthusiast | Data Automation & ML</h3>
+<h3 align="center">Principal Software Developer | Python &amp; R Enthusiast | Data Automation &amp; ML</h3>
 
-<!-- 
-  ========================================================================
-  PROFILE VIEWS COUNTER 
-  (Optional, you can remove it if you prefer not to show it.)
-  ========================================================================
--->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jdavis-EliLilly&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jdavis-EliLilly&label=Profile+views&color=0e75b6" alt="profile views" />
 </p>
-
-<!-- 
-  ========================================================================
-  ABOUT ME SECTION
-  Add more about your current or future goals, interesting facts, etc.
-  ========================================================================
--->
-- 🔭 I’m currently working on **[Data Automation Projects, AWS Glue, PySpark, and Python Data Science](https://github.com/EliLillyCo)**
-- 🌱 I’m currently learning **Machine Learning** and **Automation**
-- 👨‍💻 All of my projects are available in **[My GitHub Repositories](https://github.com/jdavis-EliLilly)**
-- 💬 Ask me about:
-  - **Python Automation**  
-  - **Sklearn Algorithms** (XGBoost, Gradient Boosting, Linear Regression)  
-  - **R Shiny Web Development**  
-  - **Database Solutions**
-- 📫 How to reach me: **davis_james_nathan@lilly.com**
-- 📄 Learn about my professional experience at [My Workday Profile](https://wd5.myworkday.com/lilly/d/inst/1$37/247$22434.htmld#TABINDEX=0&SUBTABINDEX=0)
 
 ---
 
-<!-- 
-  ========================================================================
-  CONNECT WITH ME 
-  (Add other social platforms if you have them, e.g., Twitter, Medium)
-  ========================================================================
--->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/james-davis-a13b4378" target="blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="James Davis LinkedIn"
-         height="30" 
-         width="40" />
+## 🚀 About Me
+
+- 🔭 **Currently shipping**
+  - 🐍 **TFL Finder** – a Python Shiny + FAISS search tool for clinical TFL PDFs
+  - 🔧 **CLUWE Cron Scheduler** – R Shiny app that inserts/edits cron jobs inside the “CLUWE block” on our HPC
+  - 📧 **VAANa** – R automation that emails sites about upcoming patient visits (now in production)
+  - 📊 **Usage-Analytics Dashboard** – R Shiny + ApexCharts, upgrading to R 4.4.2
+  - 🤖 **Code Gen** – generative-AI assistant that turns study specs into R/SAS code
+
+- 🌱 **In the lab**
+  - Vector search with **FAISS** & **pgvector**
+  - **LangChain** agent patterns for regulated environments
+  - Designing **secure / high-perf / cost-opt** serverless on AWS (Lambda + Aurora + Gateway) – *studying for SAA-C03 retake*
+
+- 💬 Ping me about:
+  - Python & R automation, Shiny (both flavors), CI/CD on Posit, LLM evaluation in pharma
+  - AWS Glue, PySpark, and data lake ETL
+  - “Can I weld a dove-blind on tractor hydraulics?” – yes, that too 😄
+
+- 📫 **davis_james_nathan@lilly.com**
+
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p>
+
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         width="40" height="40" alt="Python"/>
   </a>
-  <!-- 
-    Add more icons/badges if relevant:
-    <a href="https://twitter.com/yourhandle" target="blank">
-      <img align="center" 
-           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-           alt="twitter"
-           height="30" 
-           width="40" />
-    </a>
-  -->
-</p>
 
----
+  <!-- R / RStudio -->
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"
+         width="40" height="40" alt="R"/>
+  </a>
 
-<!-- 
-  ========================================================================
-  LANGUAGES AND TOOLS
-  ========================================================================
--->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
-         alt="AWS"
-         width="40"
-         height="40"/>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         alt="MySQL"
-         width="40"
-         height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+         width="40" height="40" alt="AWS"/>
   </a>
 
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-         alt="PostgreSQL"
-         width="40"
-         height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+         width="40" height="40" alt="PostgreSQL"/>
   </a>
 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="Python"
-         width="40"
-         height="40"/>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+         width="40" height="40" alt="Pandas"/>
   </a>
 
-  <!-- RStudio -->
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg"
-         alt="RStudio"
-         width="40"
-         height="40"/>
+  <!-- Posit / Python Shiny -->
+  <a href="https://shiny.posit.co/py/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/posit-dev/py-shiny/main/docs/_static/logo.svg"
+         width="40" height="40" alt="Python Shiny"/>
   </a>
 
-  <!-- Raspberry Pi -->
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"
-         alt="Raspberry Pi"
-         width="40"
-         height="40"/>
+  <!-- Vector ( Timber Vector ) -->
+  <a href="https://vector.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/timberio/vector/HEAD/docs/img/vector-logo.svg"
+         width="40" height="40" alt="Vector"/>
   </a>
+
 </p>
 
 ---
 
-<!-- 
-  ========================================================================
-  GITHUB STATS AND METRICS
-  The 'herokuapp.com' endpoints might sometimes be slow. 
-  If they are not showing properly, consider the 'github-readme-stats' 
-  from other deployments or refresh the page.
-  ========================================================================
--->
+## 📈 GitHub Stats
 
-<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jdavis-EliLilly&count_private=true&theme=dark" 
-       alt="James Davis GitHub Streak" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdavis-EliLilly&layout=compact&theme=dark"
-         alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.demolab.com?user=jdavis-EliLilly&count_private=true&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdavis-EliLilly&layout=compact&theme=dark" />
 </p>
 
 ---
 
-<!-- 
-  ========================================================================
-  GITHUB METRICS
-  This shows a wide variety of metrics (gists, activity, lines of code, etc.).
-  ========================================================================
--->
-## 🔔 My Latest GitHub Metrics
+## 🔔 Latest Metrics
 <p align="center">
-  <img src="https://metrics.lecoq.io/jdavis-EliLilly?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/jdavis-EliLilly?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FChicago" />
 </p>
 
 ---
 
-<!-- 
-  ========================================================================
-  OPTIONAL: GITHUB TROPHIES 
-  ========================================================================
--->
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jdavis-EliLilly&theme=gruvbox&column=4" alt="GitHub Trophies"/>
-</p>
--->
+## 🧰 Cool Tricks & Snippets
+<details>
+<summary>🌗 R Shiny – one-click Dark / Light toggle (Flatly ↔ Darkly)</summary>
 
-<!-- 
-  ========================================================================
-  FOOTER
-  You can customize a small sign-off or a fun quote.
-  ========================================================================
--->
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</p>
+```r
+library(shiny)
+library(shinyswatch)
+ui <- fluidPage(
+  tags$head(
+    # Sun/Moon button
+    tags$style("#modeBtn{position:fixed;top:10px;right:10px;font-size:24px;border:none;background:transparent;}")),
+  actionButton("modeBtn", "", icon = icon("moon")),
+  h2("Hello world")
+)
 
-<p align="center">
-  <b>Thank you for visiting!</b>
-</p>
+server <- function(input, output, session){
+  current <- reactiveVal("flatly")  # default
+  observeEvent(input$modeBtn,{
+    new <- if (current()=="flatly") "darkly" else "flatly"
+    current(new); shinyswatch::theme_switch(new)
+    updateActionButton(session, "modeBtn",
+                       icon = icon(if (new=="flatly") "moon" else "sun"))
+  })
+}
+
+shinyswatch::run_with_themer(ui, server, theme = "flatly")
+````
+
+</details>
+
+<details>
+<summary>⚙️ Git – create a <code>POSIT_DEPLOY</code> branch tracking <code>origin/dev</code></summary>
+
+```bash
+git switch --track -c POSIT_DEPLOY origin/dev
+git push -u origin POSIT_DEPLOY
+```
+
+*Perfect for your Posit Connect deployments.*
+
+</details>
+
+<details>
+<summary>🐍 Python – quick “retry with exponential backoff” decorator</summary>
+
+```python
+import time, functools, random
+
+def retry(errors, tries=4, cap=30):
+    """Retry `errors` up to `tries` with jittered exponential back-off."""
+    def deco(fn):
+        @functools.wraps(fn)
+        def inner(*a, **kw):
+            delay = 1
+            for attempt in range(tries):
+                try:
+                    return fn(*a, **kw)
+                except errors as e:
+                    if attempt == tries-1:
+                        raise
+                    sleep = min(cap, delay * 2 ** attempt) * random.uniform(0.8, 1.2)
+                    print(f"⚠️  {e} – retrying in {sleep:.1f}s")
+                    time.sleep(sleep)
+        return inner
+    return deco
+
+# Usage
+@retry((ConnectionError, TimeoutError))
+def fetch(url): ...
+```
+
+</details>
+
+---
+
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
+<p align="center"><b>Thanks for stopping by!</b></p>
