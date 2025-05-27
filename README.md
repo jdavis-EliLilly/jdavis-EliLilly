@@ -45,28 +45,27 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p>
-
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
          width="40" height="40" alt="Python"/>
   </a>
 
-  <!-- R / RStudio -->
+  <!-- R -->
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
          width="40" height="40" alt="R"/>
   </a>
 
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
          width="40" height="40" alt="AWS"/>
   </a>
 
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
          width="40" height="40" alt="PostgreSQL"/>
   </a>
 
@@ -78,16 +77,15 @@
 
   <!-- Posit / Python Shiny -->
   <a href="https://shiny.posit.co/py/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/posit-dev/py-shiny/main/docs/_static/logo.svg"
-         width="40" height="40" alt="Python Shiny"/>
+    <img src="https://vectorlogo.zone/logos/rstudio/rstudio-icon.svg"
+         width="40" height="40" alt="Posit Shiny"/>
   </a>
 
-  <!-- Vector ( Timber Vector ) -->
+  <!-- Vector (Timber Vector) -->
   <a href="https://vector.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/timberio/vector/HEAD/docs/img/vector-logo.svg"
+    <img src="https://raw.githubusercontent.com/vectordotdev/vector/master/website/static/img/vector-logo.svg"
          width="40" height="40" alt="Vector"/>
   </a>
-
 </p>
 
 ---
