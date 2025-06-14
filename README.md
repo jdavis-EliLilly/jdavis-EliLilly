@@ -27,7 +27,7 @@
   - 🔧 **CLUWE Cron Scheduler** – R Shiny app that inserts/edits cron jobs inside the “CLUWE block” on our HPC
   - 📧 **VAANa** – R automation that emails sites about upcoming patient visits (now in production)
   - 📊 **Usage-Analytics Dashboard** – R Shiny + ApexCharts, upgrading to R 4.4.2
-  - 🤖 **Code Gen** – generative-AI assistant that turns study specs into R/SAS code
+  
 
 - 🌱 **In the lab**
   - Vector search with **FAISS** & **pgvector**
