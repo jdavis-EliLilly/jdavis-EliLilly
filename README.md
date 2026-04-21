@@ -1,158 +1,118 @@
 <!--
 ========================================================================
-│  README.md  ◇  James "JD" Davis – AI Platform Engineer
+│  README.md  ◇  James "JD" Davis — Associate Director, AI Platform Engineering
 ========================================================================
 -->
 
 <!-- Dynamic typing header ------------------------------------------------>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=AI+Platform+Engineer;Python+%7C+R+%7C+Kubernetes+%7C+ML;Finance+AI+%26+Clinical+Automation;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=600&lines=Associate+Director%2C+AI+Platform+Engineering;Finance+AI+%7C+Agentic+Systems+%7C+MCP+%7C+RL;Python+%E2%80%A2+TypeScript+%E2%80%A2+R+%E2%80%A2+Kubernetes+%E2%80%A2+Fabric;Shipping+enterprise+AI+at+Eli+Lilly+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
-<h1 align="center">Hi there 👋, I'm James Davis</h1>
-<h3 align="center">AI Platform Engineer | Python & R | Kubernetes & Cloud-Native ML</h3>
+<h1 align="center">Hi, I'm James Davis 👋</h1>
+<h3 align="center">Associate Director — Finance AI Implementation @ Eli Lilly</h3>
+<h4 align="center">Enterprise AI platforms • Agentic systems • Cloud-native ML • Regulated pharma</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jdavis-EliLilly&label=Profile+views&color=0e75b6" alt="profile views" />
+  <img src="https://img.shields.io/badge/Role-Associate%20Director-0e75b6?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Finance%20AI-success?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Platform-Fabric%20%7C%20Kubernetes-blueviolet?style=flat-square" alt="Platform" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-**Finance AI Implementation Team** @ Eli Lilly  
-Building enterprise AI platforms with Kubernetes, Fabric, and reinforcement learning
+I lead AI platform engineering on the **Finance AI Implementation Team** at Eli Lilly, designing and shipping the systems that move pharmaceutical finance from reactive reporting to **agentic, conversational intelligence**. My work spans the full stack — from DAX-tuned semantic models and deep-RL fraud detection, to TypeScript agent orchestration services running on enterprise Kubernetes.
 
-- 🔭 **Currently shipping**
-  - 🧠 **Fabric Data Agents** – CFO-level conversational intelligence with semantic models (4 in production)
-  - ☁️ **MCP Server Infrastructure** – Production Kubernetes deployment on CATS platform
-  - 🤖 **Contract Defense RL** – Multi-agent reinforcement learning for pharmaceutical contract fraud detection
-  - 📊 **AI Platform Strategy** – Enterprise governance & orchestration architecture targeting 2,000+ users
+Before this I spent 2.5 years in Global Statistics delivering **72 projects at a 96% completion rate**, including org-wide observability for 100+ Shiny apps and a 10,000× AWS image-processing pipeline for clinical endpoints.
 
-- 🏗️ **Recently shipped** (Global Statistics)
-  - 📧 **VAANa** – Clinical trial automation deployed to multiple global studies (Python + Fabric)
-  - 📈 **Shiny Usage Platform** – Org-wide telemetry tracking 100+ applications, 75,000+ interactions
-  - 🔏 **CLUWE eSign Tool** – Automated signature validation for 100+ docs/month
-  - 📂 **FileLister** – Study setup automation supporting 30+ active studies
-
-- 🌱 **In the lab**
-  - **PyTorch** for deep Q-learning & adversarial training
-  - **Semantic modeling** with Microsoft Fabric & Direct Lake
-  - **MCP (Model Context Protocol)** server patterns with FastMCP
-  - **Kubernetes** orchestration: Docker, Helm, ArgoCD
-  - Vector search with **FAISS** & **pgvector**
-
-- 💬 Ask me about:
-  - Kubernetes deployments, Fabric data agents, semantic modeling
-  - Python & R automation, Shiny (both flavors), multi-agent RL
-  - AWS serverless architecture, CI/CD on Posit Connect
-  - LLM evaluation & RAG in regulated pharma environments
-  - "How do you deploy an MCP server on enterprise Kubernetes?" 😄
-
-- 🎯 **2025 Stats**
-  - 72 projects delivered across 2.5 years (96% completion rate)
-  - 4 production Fabric data agents deployed in 3 months
-  - 700+ users impacted across Statistics, Finance, Clinical Ops
-  - 10,000x performance improvement (image processing)
-
-- 📫 **Connect:** [LinkedIn](#) | [Email](mailto:your-personal-email@example.com)
+- 🧠 **Shipping today** — Finance Intelligence Hub, MCP servers, Fabric agents, RL contract defense
+- 🏗️ **Scaling** — an enterprise AI platform roadmap targeting **2,000+ users** and **$50M+ ROI**
+- 🎓 **Studying** — agent orchestration, Direct Lake optimization, multi-agent RL, platform engineering
+- 💬 **Ask me about** — deploying MCP on enterprise K8s, Fabric semantic modeling in regulated environments, LLM evaluation for finance, or how to migrate a Shiny fleet without losing your mind
+- 📫 **Reach me** — [LinkedIn](https://www.linkedin.com/) · davis_james_nathan@lilly.com
 
 ---
 
-<h3 align="left">🛠️ Tech Stack & Tools:</h3>
+## ✨ 2026 Highlights
+
+> *Q1 2026 — Finance Intelligence Hub + enterprise K8s rollout*
+
+| Initiative | What it is | Impact |
+|---|---|---|
+| 🏛️ **Finance Intelligence Hub** | Full-stack TypeScript platform (Feb 2026 → today). Unified agentic surface for CFO-level analytics, semantic model access, and cross-agent orchestration. | 100+ PRs in Q1; foundational platform for the 2,000-user roadmap |
+| ☸️ **LRL Light K8s Infra Apps** | Production deployments on the CATS (EKS/Fargate) platform — MCP servers, agent runtimes, containerized AI microservices. | Reusable K8s pattern adopted across Finance AI |
+| 🤖 **Agentic Orchestration Layer** | Model routing, tool-use governance, and multi-agent handoff for Fabric + Copilot Studio + custom agents. | Standardized integration pattern across 3+ teams |
+| 🛡️ **Contract Defense RL (v2)** | Evolution of the Fort Knox Revenue Guardian — deep Q-learning with adversarial training for pharmaceutical contract fraud. | >200% simulated ROI; framework for future production ML |
+| 📊 **Fabric Agent Expansion** | Scaling from 4 → next-gen agents: CFO reporting, GLP-1 market intel, line-item reconciliation, clinical research, Italy hub finance. | 70% reduction in executive reporting prep |
+
+---
+
+## 🏆 Career Impact
+
+```
+2026 Q1  Finance AI Platform Engineering
+├─ Finance Intelligence Hub (TypeScript, full-stack agentic platform)
+├─ LRL Light K8s Infra Apps (CATS / EKS / Fargate deployments)
+├─ Contract Defense RL — Gen 2 (PyTorch, multi-agent adversarial)
+└─ Agent orchestration + governance (2,000-user roadmap)
+
+2025     Finance AI Implementation (Aug → )
+├─ 4 production Fabric data agents (CFO-level intelligence)
+├─ Enterprise Kubernetes MCP server on CATS
+├─ AI Platform Strategy — $50M ROI roadmap adopted by leadership
+├─ CFO Staff AI Quick Wins — adopted by 100+ finance staff
+└─ Fort Knox Revenue Guardian — deep RL contract defense
+
+2023–25  Global Statistics — Principal Software Developer
+├─ 57 projects delivered · 96% completion rate
+├─ VAANa clinical trial automation (multi-study, global)
+├─ Shiny Usage Platform — 100+ apps, 75,000+ interactions tracked
+├─ CLUWE eSign, FileLister, Admiral RAG, Digital Twins
+└─ AWS Lambda pipeline — 10,000× image-processing speedup
+```
+
+**Cumulative impact:** 500+ users across Finance, Statistics, and Clinical Ops · $11M+ in documented automation value · 25+ production systems · 3 generations of RL research.
+
+---
+
+## 🛠️ Tech Stack
 
 <p>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-         width="40" height="40" alt="Python"/>
-  </a>
-
-  <!-- R -->
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
-         width="40" height="40" alt="R"/>
-  </a>
-
-  <!-- Kubernetes -->
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-         width="40" height="40" alt="Kubernetes"/>
-  </a>
-
-  <!-- Docker -->
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-         width="40" height="40" alt="Docker"/>
-  </a>
-
-  <!-- Azure -->
-  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
-         width="40" height="40" alt="Azure"/>
-  </a>
-
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-         width="40" height="40" alt="AWS"/>
-  </a>
-
-  <!-- PyTorch -->
-  <a href="https://pytorch.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-         width="40" height="40" alt="PyTorch"/>
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-         width="40" height="40" alt="PostgreSQL"/>
-  </a>
-
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-         width="40" height="40" alt="Pandas"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-         width="40" height="40" alt="Git"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
-**Also:** Microsoft Fabric • Power BI • Helm • ArgoCD • FastMCP • LangChain • FAISS • Copilot Studio • Shiny (R & Python)
-
----
-
-## 📊 Career Highlights
-
-```
-2025 Q3-Q4: Finance AI Implementation Team
-├─ 4 Production Fabric Data Agents (CFO-level intelligence)
-├─ Enterprise Kubernetes MCP Server (CATS platform)
-├─ 2 Reinforcement Learning Systems (contract defense)
-└─ AI Platform Strategy (2,000+ user roadmap)
-
-2023-2025: Global Statistics
-├─ 57 Projects Delivered (clinical automation, AWS infrastructure)
-├─ 100+ Shiny Apps Monitored (org-wide telemetry)
-├─ VAANa Clinical Trial Automation (multi-study deployment)
-└─ 10,000x Performance Optimization (image processing)
-```
+**Languages & runtimes** — Python · TypeScript · R · Node.js · SAS · Bash  
+**AI & ML** — PyTorch · LangChain · FAISS · pgvector · Azure OpenAI · Copilot Studio · Anthropic / Claude · MCP (FastMCP)  
+**Data & analytics** — Microsoft Fabric · Direct Lake · Power BI · DAX · Semantic Models · Pandas · Aurora · SQLite  
+**Cloud & platform** — Kubernetes · EKS · Fargate · Helm · ArgoCD · Azure Workload Identity · AWS Lambda · Posit Connect  
+**Frontend** — React 18 · Vite · Tailwind · Shiny (R & Python)  
+**DevOps** — Docker · GitHub Actions · renv · uv · pre-commit
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=jdavis-EliLilly&count_private=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=jdavis-EliLilly&count_private=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdavis-EliLilly&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdavis-EliLilly&layout=compact&count_private=true&theme=tokyonight" />
 </p>
 
 ---
@@ -160,7 +120,48 @@ Building enterprise AI platforms with Kubernetes, Fabric, and reinforcement lear
 ## 🧰 Code Snippets & Patterns
 
 <details>
-<summary>🐳 Kubernetes – Deploy MCP server with Azure Workload Identity</summary>
+<summary>🤖 <b>TypeScript — Agentic tool-call router (Finance Intelligence Hub pattern)</b></summary>
+
+```ts
+import type { Tool, AgentResponse } from "./types";
+
+interface RouteDecision {
+  tool: Tool;
+  confidence: number;
+  reasoning: string;
+}
+
+export async function routeAgentCall(
+  userQuery: string,
+  availableTools: Tool[],
+  context: { userRole: string; dataset?: string }
+): Promise<AgentResponse> {
+  const decision = await classifyIntent(userQuery, availableTools);
+
+  if (decision.confidence < 0.65) {
+    return { status: "clarify", prompt: decision.reasoning };
+  }
+
+  // Governance gate — role-based tool access
+  if (!canInvoke(context.userRole, decision.tool)) {
+    return { status: "denied", reason: "role not authorized" };
+  }
+
+  const result = await decision.tool.invoke(userQuery, context);
+
+  return {
+    status: "ok",
+    tool: decision.tool.name,
+    data: result,
+    trace: { confidence: decision.confidence, path: decision.reasoning },
+  };
+}
+```
+
+</details>
+
+<details>
+<summary>🐳 <b>Kubernetes — MCP server with Azure Workload Identity (CATS platform)</b></summary>
 
 ```yaml
 apiVersion: apps/v1
@@ -181,162 +182,29 @@ spec:
     spec:
       serviceAccountName: mcp-server-sa
       containers:
-      - name: mcp-server
-        image: your-registry/mcp-server:latest
-        ports:
-        - containerPort: 5000
-        env:
-        - name: AZURE_CLIENT_ID
-          value: "your-client-id"
-        resources:
-          requests:
-            memory: "256Mi"
-            cpu: "250m"
-          limits:
-            memory: "512Mi"
-            cpu: "500m"
+        - name: mcp-server
+          image: registry.lilly.com/finance-ai/mcp-server:latest
+          ports:
+            - containerPort: 5000
+          env:
+            - name: AZURE_CLIENT_ID
+              valueFrom:
+                secretKeyRef: { name: mcp-identity, key: client-id }
+          resources:
+            requests: { memory: 256Mi, cpu: 250m }
+            limits:   { memory: 512Mi, cpu: 500m }
+          readinessProbe:
+            httpGet: { path: /healthz, port: 5000 }
+            initialDelaySeconds: 5
 ```
 
 </details>
 
 <details>
-<summary>🤖 PyTorch – Multi-agent Q-learning with experience replay</summary>
-
-```python
-import torch
-import torch.nn as nn
-import numpy as np
-from collections import deque
-import random
-
-class QNetwork(nn.Module):
-    def __init__(self, state_size, action_size, hidden_size=64):
-        super().__init__()
-        self.fc1 = nn.Linear(state_size, hidden_size)
-        self.fc2 = nn.Linear(hidden_size, hidden_size)
-        self.fc3 = nn.Linear(hidden_size, action_size)
-        
-    def forward(self, x):
-        x = torch.relu(self.fc1(x))
-        x = torch.relu(self.fc2(x))
-        return self.fc3(x)
-
-class Agent:
-    def __init__(self, state_size, action_size, lr=0.001):
-        self.q_network = QNetwork(state_size, action_size)
-        self.optimizer = torch.optim.Adam(self.q_network.parameters(), lr=lr)
-        self.memory = deque(maxlen=10000)
-        self.gamma = 0.95  # discount factor
-        
-    def act(self, state, epsilon=0.1):
-        if random.random() < epsilon:
-            return random.randint(0, self.q_network.fc3.out_features - 1)
-        
-        with torch.no_grad():
-            state_t = torch.FloatTensor(state).unsqueeze(0)
-            q_values = self.q_network(state_t)
-            return q_values.argmax().item()
-    
-    def learn(self, batch_size=32):
-        if len(self.memory) < batch_size:
-            return
-        
-        batch = random.sample(self.memory, batch_size)
-        states, actions, rewards, next_states, dones = zip(*batch)
-        
-        states = torch.FloatTensor(np.array(states))
-        actions = torch.LongTensor(actions)
-        rewards = torch.FloatTensor(rewards)
-        next_states = torch.FloatTensor(np.array(next_states))
-        dones = torch.FloatTensor(dones)
-        
-        # Q-learning update
-        current_q = self.q_network(states).gather(1, actions.unsqueeze(1))
-        next_q = self.q_network(next_states).max(1)[0].detach()
-        target_q = rewards + (1 - dones) * self.gamma * next_q
-        
-        loss = nn.MSELoss()(current_q.squeeze(), target_q)
-        self.optimizer.zero_grad()
-        loss.backward()
-        self.optimizer.step()
-```
-
-</details>
-
-<details>
-<summary>🌗 R Shiny – Dark/Light mode toggle with persistence</summary>
-
-```r
-library(shiny)
-library(shinyswatch)
-
-ui <- fluidPage(
-  tags$head(
-    tags$style("#modeBtn{position:fixed;top:10px;right:10px;font-size:24px;
-                border:none;background:transparent;cursor:pointer;z-index:9999;}")
-  ),
-  actionButton("modeBtn", "", icon = icon("moon")),
-  h2("Hello world"),
-  plotOutput("plot")
-)
-
-server <- function(input, output, session){
-  # Load saved preference
-  current <- reactiveVal({
-    saved <- getShinyOption("theme", default = "flatly")
-    if (saved == "darkly") {
-      updateActionButton(session, "modeBtn", icon = icon("sun"))
-    }
-    saved
-  })
-  
-  observeEvent(input$modeBtn, {
-    new_theme <- if (current() == "flatly") "darkly" else "flatly"
-    current(new_theme)
-    shinyswatch::theme_switch(new_theme)
-    updateActionButton(session, "modeBtn",
-                      icon = icon(if (new_theme == "flatly") "moon" else "sun"))
-  })
-  
-  output$plot <- renderPlot({
-    plot(mtcars$mpg, mtcars$wt)
-  })
-}
-
-shinyswatch::run_with_themer(ui, server, theme = "flatly")
-```
-
-</details>
-
-<details>
-<summary>⚙️ Git – Advanced branching for Posit Connect deployments</summary>
-
-```bash
-# Create deployment branch tracking dev
-git switch --track -c POSIT_DEPLOY origin/dev
-git push -u origin POSIT_DEPLOY
-
-# Setup automatic merge from dev
-git config branch.POSIT_DEPLOY.mergeoptions "--no-ff"
-
-# Fast-forward deployment branch
-git switch POSIT_DEPLOY
-git merge --ff-only origin/dev
-git push origin POSIT_DEPLOY
-
-# Rollback if needed
-git reset --hard HEAD~1
-git push --force-with-lease origin POSIT_DEPLOY
-```
-
-</details>
-
-<details>
-<summary>🐍 Python – FastMCP server with Fabric integration</summary>
+<summary>🐍 <b>Python — FastMCP server querying a Fabric semantic model</b></summary>
 
 ```python
 from fastmcp import FastMCP
-import azure.identity
 from azure.identity import DefaultAzureCredential
 import requests
 
@@ -344,34 +212,21 @@ mcp = FastMCP("Fabric Data Agent")
 
 @mcp.tool()
 def query_semantic_model(dataset_id: str, dax_query: str) -> dict:
-    """Execute DAX query against Fabric semantic model.
-    
-    Args:
-        dataset_id: The Power BI dataset/semantic model ID
-        dax_query: DAX query string to execute
-    
-    Returns:
-        Query results as dictionary
-    """
-    credential = DefaultAzureCredential()
-    token = credential.get_token("https://analysis.windows.net/powerbi/api/.default")
-    
-    headers = {
-        "Authorization": f"Bearer {token.token}",
-        "Content-Type": "application/json"
-    }
-    
-    payload = {
-        "queries": [{
-            "query": dax_query
-        }]
-    }
-    
-    url = f"https://api.powerbi.com/v1.0/myorg/datasets/{dataset_id}/executeQueries"
-    response = requests.post(url, headers=headers, json=payload)
-    response.raise_for_status()
-    
-    return response.json()
+    """Execute a DAX query against a Fabric semantic model."""
+    token = DefaultAzureCredential().get_token(
+        "https://analysis.windows.net/powerbi/api/.default"
+    )
+    resp = requests.post(
+        f"https://api.powerbi.com/v1.0/myorg/datasets/{dataset_id}/executeQueries",
+        headers={
+            "Authorization": f"Bearer {token.token}",
+            "Content-Type": "application/json",
+        },
+        json={"queries": [{"query": dax_query}]},
+        timeout=30,
+    )
+    resp.raise_for_status()
+    return resp.json()
 
 if __name__ == "__main__":
     mcp.run()
@@ -380,85 +235,119 @@ if __name__ == "__main__":
 </details>
 
 <details>
-<summary>🔄 Python – Retry with exponential backoff & jitter</summary>
+<summary>🧠 <b>PyTorch — Deep Q-learning agent (Contract Defense RL)</b></summary>
 
 ```python
-import time
-import functools
-import random
+import torch, random
+import torch.nn as nn
+from collections import deque
 
-def retry(errors=(Exception,), tries=4, base_delay=1, max_delay=30):
-    """Retry on errors with exponential backoff and jitter.
-    
-    Args:
-        errors: Exception types to retry on
-        tries: Maximum number of attempts
-        base_delay: Initial delay in seconds
-        max_delay: Maximum delay cap in seconds
-    """
-    def decorator(fn):
+class QNetwork(nn.Module):
+    def __init__(self, state_size, action_size, hidden=64):
+        super().__init__()
+        self.net = nn.Sequential(
+            nn.Linear(state_size, hidden), nn.ReLU(),
+            nn.Linear(hidden, hidden),     nn.ReLU(),
+            nn.Linear(hidden, action_size),
+        )
+    def forward(self, x): return self.net(x)
+
+class Agent:
+    def __init__(self, s, a, lr=1e-3, gamma=0.95):
+        self.q = QNetwork(s, a)
+        self.opt = torch.optim.Adam(self.q.parameters(), lr=lr)
+        self.buf = deque(maxlen=10_000)
+        self.gamma = gamma
+
+    def act(self, state, eps=0.1):
+        if random.random() < eps:
+            return random.randint(0, self.q.net[-1].out_features - 1)
+        with torch.no_grad():
+            return self.q(torch.FloatTensor(state)).argmax().item()
+
+    def learn(self, batch=32):
+        if len(self.buf) < batch: return
+        s, a, r, ns, d = zip(*random.sample(self.buf, batch))
+        s, ns = torch.FloatTensor(s), torch.FloatTensor(ns)
+        a, r, d = torch.LongTensor(a), torch.FloatTensor(r), torch.FloatTensor(d)
+        q  = self.q(s).gather(1, a.unsqueeze(1)).squeeze()
+        tq = r + (1 - d) * self.gamma * self.q(ns).max(1)[0].detach()
+        loss = nn.MSELoss()(q, tq)
+        self.opt.zero_grad(); loss.backward(); self.opt.step()
+```
+
+</details>
+
+<details>
+<summary>🌗 <b>R Shiny — Dark/Light mode toggle with persistence</b></summary>
+
+```r
+library(shiny); library(shinyswatch)
+
+ui <- fluidPage(
+  tags$head(tags$style(
+    "#modeBtn{position:fixed;top:10px;right:10px;font-size:24px;
+     border:none;background:transparent;cursor:pointer;z-index:9999;}")),
+  actionButton("modeBtn", "", icon = icon("moon")),
+  h2("Hello world"), plotOutput("plot")
+)
+
+server <- function(input, output, session) {
+  current <- reactiveVal(getShinyOption("theme", default = "flatly"))
+  observeEvent(input$modeBtn, {
+    new_theme <- if (current() == "flatly") "darkly" else "flatly"
+    current(new_theme)
+    shinyswatch::theme_switch(new_theme)
+    updateActionButton(session, "modeBtn",
+      icon = icon(if (new_theme == "flatly") "moon" else "sun"))
+  })
+  output$plot <- renderPlot(plot(mtcars$mpg, mtcars$wt))
+}
+shinyswatch::run_with_themer(ui, server, theme = "flatly")
+```
+
+</details>
+
+<details>
+<summary>🔄 <b>Python — Retry with exponential backoff & jitter</b></summary>
+
+```python
+import time, random, functools
+
+def retry(errors=(Exception,), tries=4, base=1, cap=30):
+    def deco(fn):
         @functools.wraps(fn)
-        def wrapper(*args, **kwargs):
+        def wrapper(*a, **kw):
             for attempt in range(tries):
                 try:
-                    return fn(*args, **kwargs)
+                    return fn(*a, **kw)
                 except errors as e:
-                    if attempt == tries - 1:
-                        raise
-                    
-                    # Exponential backoff with jitter
-                    delay = min(max_delay, base_delay * (2 ** attempt))
-                    jittered_delay = delay * random.uniform(0.8, 1.2)
-                    
-                    print(f"⚠️  {type(e).__name__}: {e}")
-                    print(f"   Retrying in {jittered_delay:.1f}s (attempt {attempt + 1}/{tries})")
-                    time.sleep(jittered_delay)
-            
+                    if attempt == tries - 1: raise
+                    delay = min(cap, base * 2 ** attempt) * random.uniform(0.8, 1.2)
+                    print(f"⚠️  {type(e).__name__}: {e} — retry in {delay:.1f}s")
+                    time.sleep(delay)
         return wrapper
-    return decorator
-
-# Usage examples
-@retry((ConnectionError, TimeoutError), tries=5)
-def fetch_api(url):
-    import requests
-    return requests.get(url, timeout=10)
-
-@retry((Exception,), tries=3, base_delay=2)
-def process_data(data):
-    # Your data processing logic
-    pass
+    return deco
 ```
 
 </details>
 
 ---
 
-## 🏆 Recent Achievements
+## 🎯 Focus Areas
 
-- 📦 **4 Production Data Agents** deployed in 3 months (Finance AI)
-- ☸️ **Enterprise Kubernetes** MCP server on CATS platform
-- 🤖 **Reinforcement Learning** contract defense system (>200% ROI demo)
-- 📊 **100+ Shiny Apps** monitored with org-wide telemetry
-- ⚡ **10,000x Performance** improvement (clinical image processing)
-- 🏥 **30+ Clinical Studies** supported with automation tools
-- 👥 **700+ Users** impacted across Statistics, Finance, Clinical Ops
-
----
-
-## 📚 Interests & Learning
-
-- 🧠 Multi-agent reinforcement learning & game theory
-- ☁️ Cloud-native architecture patterns (Kubernetes, service mesh)
-- 🔒 AI governance & compliance frameworks for regulated industries
-- 📊 Semantic modeling & Direct Lake optimization
-- 🤖 LLM evaluation & RAG systems in production
-- 🎯 Platform engineering & developer experience
+- 🧠 **Agentic systems** — tool-use governance, orchestration, model routing
+- 📊 **Semantic modeling** — Fabric Direct Lake tuning in regulated environments
+- 🛡️ **AI safety & governance** — compliance frameworks, auditability, RBAC
+- 🤖 **Multi-agent RL** — adversarial training for pharma risk scenarios
+- ☁️ **Platform engineering** — K8s-native developer experience for AI teams
+- 🔎 **LLM evaluation & RAG** — production-grade retrieval in pharma/finance
 
 ---
 
-<p align="center"><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i></p>
+<p align="center"><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler</i></p>
 
 <p align="center">
-  <b>Thanks for stopping by!</b><br>
-  <sub>Currently building enterprise AI platforms one Kubernetes deployment at a time 🚀</sub>
+  <b>Thanks for stopping by.</b><br>
+  <sub>Building the enterprise AI platform that pharmaceutical finance actually deserves — one Kubernetes deployment at a time. 🚀</sub>
 </p>
