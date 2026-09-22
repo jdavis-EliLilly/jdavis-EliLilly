@@ -137,15 +137,20 @@ Plus **MCP servers** (FastMCP) for Fabric semantic models, and the ARIA plugin t
 
 ---
 
-## 📈 GitHub Stats
+## 📈 2026 By The Numbers
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=jdavis-EliLilly&count_private=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdavis-EliLilly&layout=compact&count_private=true&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-430%2B-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Merged PRs" />
+  <img src="https://img.shields.io/badge/Commits-1%2C800%2B-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="Commits" />
+  <img src="https://img.shields.io/badge/API%20Endpoints-~410-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="Endpoints" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Personas%20Live-11-e0af68?style=for-the-badge&labelColor=1a1b26" alt="Personas" />
+  <img src="https://img.shields.io/badge/Architecture%20Decisions-64-f7768e?style=for-the-badge&labelColor=1a1b26" alt="ADRs" />
+  <img src="https://img.shields.io/badge/Skills%20Shipped-9-7dcfff?style=for-the-badge&labelColor=1a1b26" alt="Skills" />
 </p>
 
-<p align="center"><sub>Most of the real volume lives behind the enterprise org — the green squares are the tip of the iceberg. 🧊</sub></p>
+<p align="center"><sub>The green squares here are the tip of the iceberg — the real volume lives behind the enterprise org. 🧊</sub></p>
 
 ---
 
@@ -382,7 +387,7 @@ def retry(errors=(Exception,), tries=4, base=1, cap=30):
 
 - **Build the demo to be the product.** Wire the auth, the RLS and the audit trail on day one, and the demo *is* the thing you ship.
 - **Write the code.** An LLM reasoning its way to the same answer on every run is a cost and a coin flip; the answer, written down as code, is a diff someone can review.
-- **Shrink before you shout.** A signal that survives shrinkage is worth a phone call; a raw ratio is worth a shrug.
+- **Make the number earn it.** A signal that survives Bayesian shrinkage is worth escalating; a raw ratio at batch grain is noise in a nice font.
 - **Ship quick, stay agile my friends.** 430 merged PRs beats one heroic branch.
 
 ---
