@@ -376,10 +376,14 @@ def retry(errors=(Exception,), tries=4, base=1, cap=30):
 
 ## 🧭 Things I Believe About Building This Stuff
 
-- **The demo is not the product.** Production is auth, RLS, audit trails and the 2 a.m. page.
+> ### 🪦 The hill I will die on
+>
+> **People should always be aiming to have LLMs figure out the logic of something once — or as few times as possible — and then turn that into reviewable and automatable code.**
+
+- **Build the demo to be the product.** Wire the auth, the RLS and the audit trail on day one, and the demo *is* the thing you ship.
+- **Write the code.** An LLM reasoning its way to the same answer on every run is a cost and a coin flip; the answer, written down as code, is a diff someone can review.
 - **Shrink before you shout.** A signal that survives shrinkage is worth a phone call; a raw ratio is worth a shrug.
-- **Write the skill, not the Slack message.** If you explain a workflow twice, it should have been a skill the first time.
-- **Ship small, ship Tuesday.** 430 merged PRs beats one heroic branch.
+- **Ship quick, stay agile my friends.** 430 merged PRs beats one heroic branch.
 
 ---
 
